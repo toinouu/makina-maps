@@ -1,6 +1,7 @@
 [submodule "openmaptiles"]
 	path = openmaptiles
 	url = https://github.com/frodrigo/openmaptiles.git
+	branch = 3.8
 [submodule "tileserver-gl/tileserver-gl"]
 	path = tileserver-gl/tileserver-gl
 	url = https://github.com/frodrigo/tileserver-gl.git
